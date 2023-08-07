@@ -20,3 +20,30 @@ By answering these questions, we aim to provide a clear and concise model for pr
 - **For Taxi Drivers**: Understanding fare trends and patterns can assist drivers in maximizing their earnings.
   
 - **For Policy Makers**: Insights from this analysis can guide transportation policies, especially concerning fare regulations and taxi service quality.
+
+
+## Files in the Repository
+
+1. **Analysis Notebook**: 
+   - [Assignment 3.ipynb](./Assignment%203.ipynb)
+     - A Jupyter notebook detailing the exploratory data analysis, data preprocessing, and prediction model for the taxi fares.
+     
+2. **Data**:
+   - [yellow_tripdata_2022-04.parquet](./yellow_tripdata_2022-04.parquet)
+     - Trip data for yellow taxis in New York City for April 2022.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.x
+- pip
+- Virtual environment (optional)
+
+### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/YourUsername/YourRepositoryName.git
+
