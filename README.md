@@ -25,7 +25,7 @@ By answering these questions, we aim to provide a clear and concise model for pr
 ## Files in the Repository
 
 1. **Analysis Notebook**: 
-   - [Assignment 3.ipynb](./Assignment%203.ipynb)
+   - Predicting fare.ipynb
      - A Jupyter notebook detailing the exploratory data analysis, data preprocessing, and prediction model for the taxi fares.
      
 2. **Data**:
