@@ -30,7 +30,7 @@ By answering these questions, we aim to provide a clear and concise model for pr
      - A Jupyter notebook detailing the exploratory data analysis, data preprocessing, and prediction model for the taxi fares.
      
 2. **Data**:
-   - [yellow_tripdata_2022-04.parquet](./yellow_tripdata_2022-04.parquet)
+   - [(https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)]
      - Trip data for yellow taxis in New York City for April 2022.
 
 ## Getting Started
